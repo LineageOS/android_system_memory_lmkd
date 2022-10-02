@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de6aa02e_4cc90cad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2022-10-02T18:40:03Z",
+      "side": 1,
+      "message": "Verified booting darcy, using a 4.9 kernel without psi support.",
+      "revId": "be8c7930b938d6721f80c185323773e0505e2dfc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
